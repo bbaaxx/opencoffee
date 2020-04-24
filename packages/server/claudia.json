@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "gisties-server-executor",
+    "name": "gisties-server",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "d57pxp4bxa",
+    "module": "app"
+  }
+}
